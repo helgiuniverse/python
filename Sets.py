@@ -1,0 +1,15 @@
+number_set = {1, 2, 3, 4, 12, 12.5}
+empty_set = set()
+some_list = [1, 23, 87, 12.5]
+some_tuple = ('12', '123', '3453')
+print(set(some_list))
+print(set(some_tuple))
+print(number_set.pop())
+number_set.add(5)
+print(number_set)
+number_set.remove(4)
+print(number_set)
+number_set.discard(87)
+print(number_set)
+number_set.clear()
+print(number_set)
