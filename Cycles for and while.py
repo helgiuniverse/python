@@ -4,7 +4,7 @@
 #         numbers_sum += x
 # print(numbers_sum)
 #
-# count = int(input('Enter your number '))
+# count = int(input('Enter your number'))
 # for x in range(count):
 #     print('Hello!')
 

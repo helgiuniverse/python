@@ -7,7 +7,6 @@ def sum_num(*args):
 
 print(sum_num(1, 2, 14, 14))
 
-
 def hello_with_kwargs(**kwargs):
     if 'name' in kwargs:
         print('Hello, {}'.format(kwargs['name']))

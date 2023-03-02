@@ -17,11 +17,10 @@ elif x == 12:
     print(2)
 else:
     print(41)
-print('smth')
+print('something')
 # false_value is 0, empty_string, empty_list, empty_object, None, other is true
 
 print(True and False)
 print(True and True)
 print(True or False)
 print(not False)
-
